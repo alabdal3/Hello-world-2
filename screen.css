@@ -3,3 +3,7 @@ body {
     background-color:white ;
     font-family: Helvetica, Arial, sans-serif;
 }
+
+img {
+    width: 100%;
+}
