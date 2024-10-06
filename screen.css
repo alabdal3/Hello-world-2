@@ -21,7 +21,6 @@ main{
     flex-grow: 1;
     flex-basis: 0;
     background: #E9EAEC;
-    
     border-radius: 20px;
     margin-top: 32px;
 }
@@ -38,9 +37,6 @@ main{
     padding: 0;
 }
 
-div.code-copy {
-    padding: 30px;
-}
 div.code-HTML {
     padding: 30px;
     background-color:#424242 ;
